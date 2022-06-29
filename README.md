@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hi there. I'm Maximiliano Forlenza 👋
 
-<!--
-**maximilianoforlenza/maximilianoforlenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 27 years old and I'm a full stack developer, I have more than 8 years of experience. I'm currently working for a government institution and also as a freelancer developer.
 
-Here are some ideas to get you started:
+## Technologies & Tools 🛠️
+ * Javascript
+ * HTML
+ * CSS
+ * React
+ * Redux
+ * Node
+ * Storybook
+ * Jest
+ * React-testing-library
+ * Webpack
+ * Git
+ * MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Hobbies 🚀
+
+* Play games 🎮
+* Watch movies or series 📺
+* Hang out with friends and family 👪
+* Coding *Yes, i usually write code in my free time* 💻
+* Watch football match ⚽. I support Racing Club 💙🤍
+* Ride my motorcycle 🏍️
+
+
+## Contact me 💬
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/maximiliano-raul-forlenza/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maximiliano%20Forlenza-blue?style=flat-square&logo=linkedin">
+    </a>
+    <a href="mailto:forlenzamaximiliano@gmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/Email-forlenzamaximiliano@gmail.com-blue?style=flat-square&logo=gmail">
+    </a>
+</p>
