@@ -1,6 +1,6 @@
 # Hi there. I'm Maximiliano Forlenza 👋
 
-I'm 27 years old and I'm a full stack developer, I have more than 8 years of experience. I'm currently working for a government institution and also as a freelancer developer.
+I'm 29 years old and I'm a full stack developer, I have more than 8 years of experience. I'm currently working for a government institution and also as a freelancer developer.
 
 ## Technologies & Tools 🛠️
  * Javascript
@@ -12,6 +12,7 @@ I'm 27 years old and I'm a full stack developer, I have more than 8 years of exp
  * Storybook
  * Jest
  * React-testing-library
+ * react-query
  * Webpack
  * Git
  * MongoDB
