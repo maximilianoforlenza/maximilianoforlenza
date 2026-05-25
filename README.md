@@ -1,40 +1,34 @@
-# Hi there. I'm Maximiliano Forlenza 👋
+# Hi, I'm Maximiliano Forlenza 👋
 
-I'm 29 years old and I'm a full stack developer, I have more than 8 years of experience. I'm currently working for a government institution and also as a freelancer developer.
+**Senior Full-Stack Engineer · Tech Lead**
 
-## Technologies & Tools 🛠️
- * Javascript
- * HTML
- * CSS
- * React
- * Redux
- * Node
- * Storybook
- * Jest
- * React-testing-library
- * react-query
- * Webpack
- * Git
- * MongoDB
+I build scalable, production-grade web and mobile applications with 9+ years of experience leading engineering teams of 5–8 developers. I specialize in architecting microservices, designing clean APIs, and shipping high-quality code under real-world constraints — including mission-critical systems used by millions of people.
 
+Open source contributor and maintainer of 12+ npm packages. I care deeply about code quality, developer experience, and mentoring the next generation of engineers.
 
-## Hobbies 🚀
+---
 
-* Play games 🎮
-* Watch movies or series 📺
-* Hang out with friends and family 👪
-* Coding *Yes, i usually write code in my free time* 💻
-* Watch football match ⚽. I support Racing Club 💙🤍
-* Ride my motorcycle 🏍️
+## 🛠️ Tech Stack
 
+**Frontend:** React.js · Redux · React Query · React Native · Jest · Tailwind CSS · Material-UI
 
-## Contact me 💬
+**Backend:** Node.js · Express.js · REST APIs · Microservices · Redis · Docker
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/maximiliano-raul-forlenza/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maximiliano%20Forlenza-blue?style=flat-square&logo=linkedin">
-    </a>
-    <a href="mailto:forlenzamaximiliano@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Email-forlenzamaximiliano@gmail.com-blue?style=flat-square&logo=gmail">
-    </a>
-</p>
+**Databases:** MongoDB · PostgreSQL · MySQL · OracleDB · SQL Server
+
+**Tooling & Practices:** CI/CD · GitHub Actions · Agile/Scrum · Code Review · npm publishing · Conventional Changelog
+
+---
+
+## 🌍 A bit about me
+
+- 🇦🇷 Based in Buenos Aires, Argentina
+- 🏗️ I love system design and clean architecture
+- 📦 I maintain open source packages under [@indec-it](https://github.com/indec-it) on GitHub
+
+---
+
+## 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maximiliano%20Forlenza-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maximiliano-raul-forlenza/)
+[![Email](https://img.shields.io/badge/Email-forlenzamaximiliano@gmail.com-blue?style=flat-square&logo=gmail)](mailto:forlenzamaximiliano@gmail.com)
